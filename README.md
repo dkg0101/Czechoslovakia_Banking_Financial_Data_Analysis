@@ -1,6 +1,6 @@
 ## Project Demo 
-https://github.com/user-attachments/assets/665dfd52-6f3d-4d6b-b44f-716d88398e75
 
+https://github.com/user-attachments/assets/8e8d5403-3c0e-4f5e-8b87-ab5b1b5f16e0
 # **Czechoslovakia Banking Financial Data Analysis**
 
 ## Introduction:
